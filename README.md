@@ -48,4 +48,4 @@ This repository introduces **Machine Learning fundamentals** using the **scikit-
 ## **How to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<mustafaaesen>/machine-learning-basics.git
+   git clone https://github.com/mustafaaesen/machine-learning-basics.git
